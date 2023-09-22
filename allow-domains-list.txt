@@ -161,3 +161,5 @@ wx.tenpay.com
 yximgs.com
 yyfweb.postar.cn
 z4a.net
+*.scotee.top
+*.scotee.cf
