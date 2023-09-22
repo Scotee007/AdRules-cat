@@ -100,7 +100,6 @@ odin.re.taobao.com
 om.cbsi.com
 p.bokecc.com
 p.qlogo.cn
-package.wallpaper.cdn.pandora.xiaomi.com.lan
 pan.quark.cn
 paste.in
 pay.wg.360.cn
@@ -116,7 +115,6 @@ qq-web.cdn-go.cn
 quark.sm.cn
 qun.qq.com
 rambler.ru
-register.xmpush.xiaomi.com
 rs6.net
 s.click.tmall.com
 s.youtube.com
@@ -135,7 +133,6 @@ static.tieba.baidu.com
 static.yximgs.com
 statistics.pandadastudio.com
 stats.foldingathome.org
-sug.browser.miui.com
 t.uc.cn
 tanx.com
 thirdwx.qlogo.cn
@@ -150,8 +147,6 @@ vcs.snssdk.com
 vdn.vzuu.com
 verify.snssdk.com
 vod.wg.360.cn
-w.pandora.xiaomi.com
-wallpaper.cdn.pandora.xiaomi.com
 wan.yxskill.com
 wg.360.cn
 wgo.mmstat.com
@@ -159,7 +154,6 @@ windows.net
 wl.jd.com
 woozooo.com
 wot.360.cn
-wtradv.market.xiaomi.com
 www.mosoteach.cn
 www.paypalobjects.com
 wx.qlogo.cn
