@@ -7,14 +7,11 @@ amos.alicdn.com
 animalmobile.happyelements.cn
 aod.itunes.apple.com
 aod.itunes.g.aaplimg.com
-api.installer.xiaomi.com
 api.mosoteach.cn
 api.open.uc.cn
-api.vip.miui.com
 api.yjllq.com
 app-monitor.ele.me
 app.link
-app.market.xiaomi.com
 app.qq.com
 app.zhuanzhuan.com
 appconf.heytapdownload.com
@@ -28,12 +25,10 @@ buy.ele.me
 c.evidon.com
 cashier.ele.me
 cdn.ark.qq.com
-chat.xiaomi.net
 click.mz.simba.taobao.com
 client-uc.heytapmobi.com
 cloudfront.net
 cmpassport.com
-cn.app.chat.xiaomi.net
 com.com
 consent.cmp.oath.com
 csi.gstatic.com
@@ -50,8 +45,6 @@ email-clk.adguard.com
 epochtimes.com
 epochtimes.org
 ereg.wip3.adobe.com
-f8.market.xiaomi.com
-feedback.miui.com
 feedburner.com
 fengkongcloud.com
 fpdownload.macromedia.com
@@ -63,7 +56,6 @@ gift.douyucdn.cn
 gm.mmstat.com
 gsp0.baidu.com
 gw.m.163.com
-hot.browser.miui.com
 ib.snssdk.com
 idqqimg.com
 ilce.alicdn.com
